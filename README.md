@@ -12,7 +12,7 @@
   <p dir="auto">
   I am a Front-end software engineer who has a passion for developing  <br />
    I develop unique websites and web applications which provide intuitive, <br/>
-Pixel-perfect user interfaces while being cleanly and efficiently behind the scenes.</p><br/>
+Pixel-perfect user interfaces while being cleanly and efficiently behind the scenes.<br/>
   Learning and improving my skills with the many technologies that power the web is something I enjoy constantly.
   </p>
   <h2 dir="auto">
