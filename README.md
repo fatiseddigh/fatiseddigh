@@ -7,12 +7,12 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNmZHMydHY2YnRlM2kxZnBxZTg5NDBta29ndXNvZ251d3NiYWtmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
   <h2 dir="auto">
-  I'm fateme
+  I'm Fateme
   </h2>
   <p dir="auto">
-  I am a Front-end software engineer who has a passion for developing  <br />
-   I develop unique websites and web applications which provide intuitive, <br/>
-Pixel-perfect user interfaces while being cleanly and efficiently behind the scenes.<br/>
+  I am a Front-end software engineer who has a passion for developing.  <br />
+  I develop unique websites and web applications which provide intuitively,
+Pixel-perfect user interfaces while being clean and <br/>efficient behind the scenes.<br/>
   Learning and improving my skills with the many technologies that power the web is something I enjoy constantly.
   </p>
   <h2 dir="auto">
