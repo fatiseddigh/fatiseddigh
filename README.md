@@ -10,7 +10,7 @@
   I'm Fateme
   </h2>
   <p dir="auto">
-  I am a Front-end software engineer who has a passion for developing.  <br />
+  I am a Front-end engineer who has a passion for developing.  <br />
   I develop unique websites and web applications which provide intuitively,
 Pixel-perfect user interfaces while being clean and <br/>efficient behind the scenes.<br/>
   Learning and improving my skills with the many technologies that power the web is something I enjoy constantly.
